@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>52500740121-r3985o1638ctn6em6p756nkei4av2ii5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.52500740121-r3985o1638ctn6em6p756nkei4av2ii5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPDuchJXS8Vb9tw7fP7rPAJVs2nqZUSyo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>52500740121</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.salemme.Short-News</string>
+	<key>PROJECT_ID</key>
+	<string>short-news-60840</string>
+	<key>STORAGE_BUCKET</key>
+	<string>short-news-60840.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:52500740121:ios:c0bcb0365c731aad</string>
+	<key>DATABASE_URL</key>
+	<string>https://short-news-60840.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, '9.0'
+
+target 'Short News' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Short News
+  pod 'Firebase'
+  pod 'Firebase/Database' 
+  pod 'Firebase/Storage'
+  pod 'Firebase/AdMob' 
+  pod 'Firebase/Messaging'
+  pod 'SwiftyJSON'
+  pod 'SnapKit', '~> 0.21'
+  pod 'SDWebImage', '~>3.8'
+
+  target 'Short NewsTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Short NewsUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
